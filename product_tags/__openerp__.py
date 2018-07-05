@@ -36,8 +36,7 @@
     "data": [
         'security/ir.model.access.csv',
         'product_view.xml',
-    ],
-    'installable': False,
+    ]
 }
 
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
